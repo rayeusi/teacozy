@@ -142,8 +142,7 @@ header nav {
 
 /* Footer */
 footer {
-  display: flex;
-  align-items: flex-start;
+  width: 100%;
   text-align: left;
-  margin-left: 20px;
+  padding: auto 20px;
 }
